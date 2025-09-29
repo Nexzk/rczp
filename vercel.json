@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/",
+      "source": "/:path*",
       "destination": "https://lhsj.longquan.gov.cn:1443/ui/chat/3e1294ac73947f96",
       "permanent": true
     }
